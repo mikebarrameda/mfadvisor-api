@@ -4,5 +4,7 @@
       "path": "."
     }
   ],
-  "settings": {}
+  "settings": {
+    "python.pythonPath": "/Users/mike.barrameda/.local/share/virtualenvs/mfadvisor-api-CFnteZBY/bin/python"
+  }
 }

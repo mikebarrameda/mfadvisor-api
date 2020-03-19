@@ -127,3 +127,19 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Serverless project artifacts
+.serverless/
+
+# VSCode artifacts
+.vscode/
+
+# Coverage artifacts
+.coverage
+coverage_html_report/
+
+# Script assets
+scripts/assets/*
+
+# Misc
+.DS_Store
